@@ -1,0 +1,7 @@
+main > div {
+    background: linear-gradient(to right, rgb(113, 184, 153), rgb(0, 137, 191));
+    box-shadow: 0px 0px 15px  rgb(9, 67, 90);
+    color: black;
+    
+}
+
